@@ -1,0 +1,14 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_60_length_26402_cov_36.807041:25187-25372|+ -             62 2016                 -             60   2.7e-44  147.1   2.1   1   1   5.8e-48   2.9e-44  147.0   2.1     1    60     1    60     1    60 0.99 NODE_60_length_26402_cov_36.807041_24 # 25187 # 25372 # 1 # ID=60_24;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.495
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/2016at543.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/run_enterobacteriaceae_odb12/hmmer_output/2016at543.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/2016at543.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:30:14 2025
+# [ok]

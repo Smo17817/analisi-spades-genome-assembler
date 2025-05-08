@@ -1,0 +1,15 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_183_length_5920_cov_73.228882:5834-5938|+ -             35 2953                 -             65   4.7e-22   76.3   6.5   1   1   1.9e-25     5e-22   76.2   6.5     1    35     1    35     1    35 0.99 NODE_183_length_5920_cov_73.228882_6 # 5834 # 5938 # 1 # ID=43_6;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.457
+NODE_181_length_15413_cov_63.977356:3-95|+     -             31 2953                 -             65   6.5e-16   56.6   0.1   1   1   2.6e-19   6.8e-16   56.6   0.1    36    65     1    30     1    30 0.98 NODE_181_length_15413_cov_63.977356_1 # 3 # 95 # 1 # ID=41_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.548
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/2953at543.hmm
+# Target file:     results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/run_enterobacteriaceae_odb12/hmmer_output/2953at543.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/2953at543.hmm results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:24:00 2025
+# [ok]

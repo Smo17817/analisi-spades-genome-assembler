@@ -1,0 +1,15 @@
+#                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_60_length_26402_cov_36.807041:6735-8987|+ -            751 15051                -            329     0.083    9.9   0.8   1   2    0.0024        12    2.8   0.1    16    46   106   136   101   140 0.91 NODE_60_length_26402_cov_36.807041_8 # 6735 # 8987 # 1 # ID=60_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.577
+NODE_60_length_26402_cov_36.807041:6735-8987|+ -            751 15051                -            329     0.083    9.9   0.8   2   2    0.0004         2    5.3   0.0    17    66   157   203   152   218 0.80 NODE_60_length_26402_cov_36.807041_8 # 6735 # 8987 # 1 # ID=60_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.577
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/archaea_odb12/hmms/15051at2157.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_archaea_odb12/hmmer_output/15051at2157.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/archaea_odb12/hmms/15051at2157.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:23:21 2025
+# [ok]

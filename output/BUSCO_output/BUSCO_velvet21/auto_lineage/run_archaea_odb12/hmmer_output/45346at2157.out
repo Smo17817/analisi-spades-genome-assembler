@@ -1,0 +1,14 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_1441_length_52686_cov_76.197510:2401-2871|- -            157 45346                -            191   1.4e-17   62.1   1.2   1   1   3.2e-21   1.7e-17   61.8   1.2    56   190    24   148    16   149 0.92 NODE_1441_length_52686_cov_76.197510_3 # 2401 # 2871 # -1 # ID=633_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.497
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/archaea_odb12/hmms/45346at2157.hmm
+# Target file:     results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/auto_lineage/run_archaea_odb12/hmmer_output/45346at2157.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/archaea_odb12/hmms/45346at2157.hmm results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:18:18 2025
+# [ok]

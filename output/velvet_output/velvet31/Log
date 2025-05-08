@@ -1,0 +1,22 @@
+Wed Apr  2 19:25:46 2025
+ velveth velveth33 33 -shortPaired -fastq -separate /home/simonedassisi/output_forward_paired.fastq /home/simonedassisi/output_reverse_paired.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Wed Apr  2 19:26:57 2025
+ velvetg velveth33 -exp_cov auto -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 66.341421
+Final graph has 1461 nodes and n50 of 42655, max 129671, total 5058839, using 2441392/2457064 reads

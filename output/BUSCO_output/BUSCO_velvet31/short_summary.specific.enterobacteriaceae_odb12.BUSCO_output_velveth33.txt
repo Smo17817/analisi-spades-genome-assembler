@@ -1,0 +1,42 @@
+# BUSCO version is: 5.8.2 
+# The lineage dataset is: enterobacteriaceae_odb12 (Creation date: 2024-11-14, number of genomes: 107, number of BUSCOs: 874)
+# Summarized benchmarking in BUSCO notation for file /home/simonedassisi/velvet-1.2.10/velveth33/contigs.fa
+# BUSCO was run in mode: prok_genome_prod
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:99.0%[S:98.9%,D:0.1%],F:0.7%,M:0.3%,n:874	   
+	865	Complete BUSCOs (C)			   
+	864	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	3	Missing BUSCOs (M)			   
+	874	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	882	Number of scaffolds
+	948	Number of contigs
+	5080707	Total length
+	0.014%	Percent gaps
+	41 KB	Scaffold N50
+	30 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbtools: 39.06
+	prodigal: 2.6.3
+	python: sys.version_info(major=3, minor=10, micro=16, releaselevel='final', serial=0)
+	busco: 5.8.2
+	miniprot_index: 0.13-r248
+	miniprot_align: 0.13-r248
+	sepp: 4.5.5
+
+Placement file versions:
+	list_of_reference_markers.bacteria_odb12.2024-11-15.txt
+	tree.bacteria_odb12.2024-11-15.nwk
+	tree_metadata.bacteria_odb12.2024-11-15.txt
+	supermatrix.aln.bacteria_odb12.2024-11-15.faa
+	mapping_taxids-busco_dataset_name.bacteria_odb12.2024-11-15.txt
+	mapping_taxid-lineage.bacteria_odb12.2024-11-15.txt

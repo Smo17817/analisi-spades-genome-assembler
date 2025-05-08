@@ -1,0 +1,17 @@
+#                                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+10251185at2759_54092_0:001f0d|NODE_1847_length_31756_cov_77.062065:12447-12507|+  -             21 10251185             -            171   2.7e-05   12.6   0.1   1   1   1.8e-05   2.7e-05   12.6   0.1     9    23     1    15     1    19 0.88 <unknown description>
+10251185at2759_7725_0:003d02|NODE_1847_length_31756_cov_77.062065:12414-12540|+   -             43 10251185             -            171     3e-05   12.4   0.1   1   1     2e-05     3e-05   12.4   0.1     8    23    11    26     6    42 0.79 <unknown description>
+10251185at2759_6850_0:000752|NODE_1847_length_31756_cov_77.062065:12447-12540|+   -             32 10251185             -            171   3.4e-05   12.2   0.0   1   1   2.3e-05   3.4e-05   12.2   0.0     9    23     1    15     1    31 0.79 <unknown description>
+10251185at2759_747525_0:002f2c|NODE_1847_length_31756_cov_77.062065:12411-12480|+ -             24 10251185             -            171    0.0001   10.7   0.6   1   1   6.4e-05   9.6e-05   10.8   0.6     8    19    12    23     6    24 0.84 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/eukaryota_odb12/hmms/10251185at2759.hmm
+# Target file:     results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/10251185at2759.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/hmmer_output/10251185at2759.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/eukaryota_odb12/hmms/10251185at2759.hmm results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/10251185at2759.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:22:25 2025
+# [ok]

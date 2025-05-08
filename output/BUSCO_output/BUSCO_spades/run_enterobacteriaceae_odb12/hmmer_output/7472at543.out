@@ -1,0 +1,19 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_54_length_28184_cov_41.894607:1507-2766|-   -            420 7472                 -            418  8.8e-227  750.9  28.7   1   1  1.2e-229  9.7e-227  750.7  28.7     5   418     5   419     1   419 0.98 NODE_54_length_28184_cov_41.894607_3 # 1507 # 2766 # -1 # ID=54_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.568
+NODE_41_length_44791_cov_39.437601:25354-26493|- -            380 7472                 -            418   1.1e-27   95.0   0.0   1   1   1.7e-30   1.4e-27   94.6   0.0   291   416   254   376   199   378 0.89 NODE_41_length_44791_cov_39.437601_28 # 25354 # 26493 # -1 # ID=41_28;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.524
+NODE_11_length_117034_cov_40.464403:1407-2162|-  -            252 7472                 -            418     1e-20   72.1   0.0   1   1   1.5e-23   1.3e-20   71.7   0.0   297   416   126   242    88   243 0.88 NODE_11_length_117034_cov_40.464403_2 # 1407 # 2162 # -1 # ID=11_2;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.508
+NODE_6_length_131096_cov_36.333598:68939-70261|+ -            441 7472                 -            418   3.6e-14   50.5   0.2   1   1   7.1e-17     6e-14   49.7   0.2   320   413   315   408   307   411 0.97 NODE_6_length_131096_cov_36.333598_70 # 68939 # 70261 # 1 # ID=6_70;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.522
+NODE_63_length_22873_cov_46.411677:20163-20927|- -            255 7472                 -            418      0.24    8.2  13.1   1   1   0.00037      0.31    7.9  13.1   177   275    10   107     2   118 0.79 NODE_63_length_22873_cov_46.411677_20 # 20163 # 20927 # -1 # ID=63_20;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.561
+NODE_130_length_2440_cov_111.786425:1-1551|-     -            517 7472                 -            418      0.75    6.6  12.2   1   1    0.0014       1.1    6.0  12.2   177   270    10   101     2   118 0.81 NODE_130_length_2440_cov_111.786425_1 # 1 # 1551 # -1 # ID=130_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.550
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/7472at543.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/run_enterobacteriaceae_odb12/hmmer_output/7472at543.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/7472at543.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:30:32 2025
+# [ok]

@@ -1,0 +1,30 @@
+[M::mp_idx_restore@0.039*0.99] loaded the index
+[M::mp_mapopt_set_max_intron] set max intron size to 10000
+[M::mp_idx_print_stat] 1099845 distinct k-mers; mean occ of infrequent k-mers: 2.83; 0 frequent k-mers accounting for 0 occurrences
+[M::worker_pipeline::18.923*0.99] mapped 1786 sequences
+[M::worker_pipeline::36.669*0.99] mapped 2049 sequences
+[M::worker_pipeline::54.319*0.99] mapped 2153 sequences
+[M::worker_pipeline::71.048*0.99] mapped 2259 sequences
+[M::worker_pipeline::88.566*0.99] mapped 2372 sequences
+[M::worker_pipeline::104.078*1.00] mapped 2494 sequences
+[M::worker_pipeline::118.534*1.00] mapped 2643 sequences
+[M::worker_pipeline::132.893*1.00] mapped 2799 sequences
+[M::worker_pipeline::147.097*1.00] mapped 2947 sequences
+[M::worker_pipeline::162.383*1.00] mapped 3126 sequences
+[M::worker_pipeline::178.984*1.00] mapped 3304 sequences
+[M::worker_pipeline::192.577*1.00] mapped 3485 sequences
+[M::worker_pipeline::203.139*1.00] mapped 3764 sequences
+[M::worker_pipeline::213.458*1.00] mapped 4066 sequences
+[M::worker_pipeline::223.818*1.00] mapped 4335 sequences
+[M::worker_pipeline::233.132*1.00] mapped 4646 sequences
+[M::worker_pipeline::242.593*1.00] mapped 4957 sequences
+[M::worker_pipeline::253.580*1.00] mapped 5335 sequences
+[M::worker_pipeline::263.315*1.00] mapped 5858 sequences
+[M::worker_pipeline::272.371*1.00] mapped 6386 sequences
+[M::worker_pipeline::280.143*1.00] mapped 6967 sequences
+[M::worker_pipeline::289.737*1.00] mapped 8083 sequences
+[M::worker_pipeline::298.417*1.00] mapped 10670 sequences
+[M::worker_pipeline::299.584*1.00] mapped 2735 sequences
+[M::main] Version: 0.13-r248
+[M::main] CMD: miniprot --trans -u -I --outs 0.95 -t 1 --gff home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_eukaryota_odb12/miniprot_output/ref.mpi /home/simonedassisi/busco_downloads/lineages/eukaryota_odb12/refseq_db.faa
+[M::main] Real time: 299.588 sec; CPU: 298.918 sec; Peak RSS: 0.131 GB

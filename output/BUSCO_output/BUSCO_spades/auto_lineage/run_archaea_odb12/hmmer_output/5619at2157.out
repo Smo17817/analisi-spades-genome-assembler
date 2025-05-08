@@ -1,0 +1,15 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_44_length_40808_cov_40.967724:36833-37093|- -             87 5619                 -             51      0.26    9.4   4.3   1   2     0.001       5.3    5.1   0.2    29    41     4    16     1    23 0.83 NODE_44_length_40808_cov_40.967724_34 # 36833 # 37093 # -1 # ID=44_34;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.506
+NODE_44_length_40808_cov_40.967724:36833-37093|- -             87 5619                 -             51      0.26    9.4   4.3   2   2    0.0006         3    5.9   0.6    27    45    22    40    18    44 0.79 NODE_44_length_40808_cov_40.967724_34 # 36833 # 37093 # -1 # ID=44_34;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.506
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/archaea_odb12/hmms/5619at2157.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_archaea_odb12/hmmer_output/5619at2157.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/archaea_odb12/hmms/5619at2157.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:23:24 2025
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_36_length_50779_cov_38.268459:34740-36413|-   -            558 84794                -            264   2.7e-37  126.7  22.3   1   6      0.22   3.7e+02   -1.6   0.0   106   162    54   108    50   126 0.67 NODE_36_length_50779_cov_38.268459_28 # 34740 # 36413 # -1 # ID=36_28;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+NODE_36_length_50779_cov_38.268459:34740-36413|-   -            558 84794                -            264   2.7e-37  126.7  22.3   2   6     7e-05      0.12    9.8   0.2    31    89   123   179   103   188 0.85 NODE_36_length_50779_cov_38.268459_28 # 34740 # 36413 # -1 # ID=36_28;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+NODE_36_length_50779_cov_38.268459:34740-36413|-   -            558 84794                -            264   2.7e-37  126.7  22.3   3   6   4.9e-14   8.3e-11   39.8   0.1    13    85   195   264   187   266 0.93 NODE_36_length_50779_cov_38.268459_28 # 34740 # 36413 # -1 # ID=36_28;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+NODE_36_length_50779_cov_38.268459:34740-36413|-   -            558 84794                -            264   2.7e-37  126.7  22.3   4   6   1.2e-11     2e-08   32.0   0.4     7    84   275   350   270   357 0.86 NODE_36_length_50779_cov_38.268459_28 # 34740 # 36413 # -1 # ID=36_28;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+NODE_36_length_50779_cov_38.268459:34740-36413|-   -            558 84794                -            264   2.7e-37  126.7  22.3   5   6   1.2e-10   2.1e-07   28.7   0.2     8    86   362   439   355   443 0.89 NODE_36_length_50779_cov_38.268459_28 # 34740 # 36413 # -1 # ID=36_28;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+NODE_36_length_50779_cov_38.268459:34740-36413|-   -            558 84794                -            264   2.7e-37  126.7  22.3   6   6   6.3e-11   1.1e-07   29.7   0.4     8   102   449   541   442   556 0.91 NODE_36_length_50779_cov_38.268459_28 # 34740 # 36413 # -1 # ID=36_28;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+NODE_8_length_126545_cov_41.885285:105354-107489|+ -            712 84794                -            264   9.1e-15   52.8   0.3   1   1   1.6e-17   2.7e-14   51.3   0.3    10    87   622   696   619   701 0.92 NODE_8_length_126545_cov_41.885285_100 # 105354 # 107489 # 1 # ID=8_100;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.539
+NODE_1_length_276430_cov_40.515391:207741-210062|- -            774 84794                -            264   4.5e-09   34.2   0.2   1   1     6e-12     1e-08   33.0   0.2    12    81   653   720   649   724 0.92 NODE_1_length_276430_cov_40.515391_183 # 207741 # 210062 # -1 # ID=1_183;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/archaea_odb12/hmms/84794at2157.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_archaea_odb12/hmmer_output/84794at2157.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/archaea_odb12/hmms/84794at2157.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:23:25 2025
+# [ok]

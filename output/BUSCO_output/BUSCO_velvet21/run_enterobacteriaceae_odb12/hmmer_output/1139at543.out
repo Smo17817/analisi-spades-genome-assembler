@@ -1,0 +1,15 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_215_length_65836_cov_69.504402:32103-34118|+  -            672 1139                 -            668         0 1285.8   0.0   1   1         0         0 1285.6   0.0     1   668     1   670     1   670 0.99 NODE_215_length_65836_cov_69.504402_35 # 32103 # 34118 # 1 # ID=52_35;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.541
+NODE_1539_length_37792_cov_75.811783:18699-20216|- -            506 1139                 -            668   1.1e-33  114.8   0.0   1   1   7.2e-36   1.9e-32  110.7   0.0   115   521    69   443    56   501 0.81 NODE_1539_length_37792_cov_75.811783_23 # 18699 # 20216 # -1 # ID=694_23;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.532
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/1139at543.hmm
+# Target file:     results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/run_enterobacteriaceae_odb12/hmmer_output/1139at543.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/1139at543.hmm results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:23:54 2025
+# [ok]

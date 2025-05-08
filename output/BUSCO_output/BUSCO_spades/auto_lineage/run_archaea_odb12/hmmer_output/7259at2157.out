@@ -1,0 +1,21 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_21_length_83220_cov_38.326345:64806-65411|- -            202 7259                 -             53     0.019   13.1   0.7   1   1   2.7e-05     0.034   12.3   0.7     3    26    52    75    50    81 0.89 NODE_21_length_83220_cov_38.326345_62 # 64806 # 65411 # -1 # ID=21_62;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.578
+NODE_7_length_130108_cov_39.332856:36108-36443|+ -            112 7259                 -             53      0.07   11.3   4.7   1   1   0.00012      0.16   10.1   4.7     5    34     3    37     1    41 0.81 NODE_7_length_130108_cov_39.332856_28 # 36108 # 36443 # 1 # ID=7_28;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.461
+NODE_9_length_123825_cov_37.296666:89876-90091|+ -             72 7259                 -             53       0.2    9.8   8.5   1   2     0.013        17    3.6   0.1    17    25     2    10     1    16 0.77 NODE_9_length_123825_cov_37.296666_78 # 89876 # 90091 # 1 # ID=9_78;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.481
+NODE_9_length_123825_cov_37.296666:89876-90091|+ -             72 7259                 -             53       0.2    9.8   8.5   2   2    0.0042       5.4    5.2   4.2     7    29    20    43    19    47 0.75 NODE_9_length_123825_cov_37.296666_78 # 89876 # 90091 # 1 # ID=9_78;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.481
+NODE_43_length_41508_cov_43.498876:2638-3180|-   -            181 7259                 -             53       2.1    6.6  11.9   1   4   0.00038      0.47    8.6   0.1    18    28    13    23     8    27 0.88 NODE_43_length_41508_cov_43.498876_5 # 2638 # 3180 # -1 # ID=43_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+NODE_43_length_41508_cov_43.498876:2638-3180|-   -            181 7259                 -             53       2.1    6.6  11.9   2   4       0.2   2.6e+02   -0.2   0.0    18    28    62    72    61    76 0.80 NODE_43_length_41508_cov_43.498876_5 # 2638 # 3180 # -1 # ID=43_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+NODE_43_length_41508_cov_43.498876:2638-3180|-   -            181 7259                 -             53       2.1    6.6  11.9   3   4       0.2   2.5e+02   -0.1   1.8    19    25   105   111   103   136 0.77 NODE_43_length_41508_cov_43.498876_5 # 2638 # 3180 # -1 # ID=43_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+NODE_43_length_41508_cov_43.498876:2638-3180|-   -            181 7259                 -             53       2.1    6.6  11.9   4   4     0.067        85    1.4   0.1    19    25   146   152   143   158 0.79 NODE_43_length_41508_cov_43.498876_5 # 2638 # 3180 # -1 # ID=43_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/archaea_odb12/hmms/7259at2157.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_archaea_odb12/hmmer_output/7259at2157.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/archaea_odb12/hmms/7259at2157.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:23:24 2025
+# [ok]

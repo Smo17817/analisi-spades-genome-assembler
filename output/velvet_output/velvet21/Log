@@ -1,0 +1,42 @@
+Wed Apr  2 19:07:06 2025
+ velveth velveth21 21 -shortPaired -fastq -separate output_forward_paired.fastq output_reverse_paired.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Wed Apr  2 19:07:41 2025
+ velveth velveth21 21 -shortPaired -fastq -separate output_forward_paired.fastq output_reverse_paired.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Wed Apr  2 19:08:48 2025
+ velveth velveth21 21 -shortPaired -fastq -separate /home/simonedassisi/output_forward_paired.fastq /home/simonedassisi/output_reverse_paired.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Wed Apr  2 19:13:21 2025
+ velvetg velveth21 -exp_cov auto -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 70.552783
+Final graph has 2672 nodes and n50 of 31137, max 112275, total 5024584, using 2447331/2457064 reads

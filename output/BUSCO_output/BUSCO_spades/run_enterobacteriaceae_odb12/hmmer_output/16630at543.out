@@ -1,0 +1,15 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_9_length_123825_cov_37.296666:23836-24564|+ -            243 16630                -            241    2e-150  496.9   0.2   1   1    9e-154  2.3e-150  496.7   0.2     1   239     1   239     1   241 0.99 NODE_9_length_123825_cov_37.296666_23 # 23836 # 24564 # 1 # ID=9_23;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.536
+NODE_157_length_682_cov_59.106306:460-681|-      -             74 16630                -            241      0.04   11.3   0.0   1   1   1.7e-05     0.043   11.2   0.0   124   178    17    71    10    73 0.90 NODE_157_length_682_cov_59.106306_1 # 460 # 681 # -1 # ID=157_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/16630at543.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/run_enterobacteriaceae_odb12/hmmer_output/16630at543.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/16630at543.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:30:12 2025
+# [ok]

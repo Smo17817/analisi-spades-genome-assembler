@@ -1,0 +1,30 @@
+#                                                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1715808at2759_3981_0:006f9e|NODE_83_length_13119_cov_40.215209:3280-4994|-        -            339 1715808              -            185   1.4e-14   44.0   1.2   1   1     6e-13   6.5e-13   38.5   1.2    11   180    83   275    77   279 0.71 <unknown description>
+1715808at2759_81972_0:000c88|NODE_83_length_13119_cov_40.215209:3280-8904|-       -            355 1715808              -            185   1.5e-14   43.8   1.2   1   1   6.8e-13   7.3e-13   38.3   1.2    11   180    99   291    93   295 0.71 <unknown description>
+1715808at2759_71139_0:0047fd|NODE_83_length_13119_cov_40.215209:3280-12915|-      -            355 1715808              -            185   1.6e-14   43.7   1.2   1   1   6.8e-13   7.3e-13   38.3   1.2    11   180    99   291    93   295 0.71 <unknown description>
+1715808at2759_63459_0:001a5b|NODE_83_length_13119_cov_40.215209:3280-4018|-       -            247 1715808              -            185   5.4e-14   42.0   0.9   1   1   2.5e-12   2.7e-12   36.5   0.9    21   180     1   183     1   187 0.70 <unknown description>
+1715808at2759_655863_0:0009b5|NODE_4_length_139564_cov_44.158667:108749-110377|-  -            319 1715808              -            185   9.9e-13   37.9   0.2   1   1   2.3e-11   2.5e-11   33.3   0.2    16   177    63   252    52   260 0.67 <unknown description>
+1715808at2759_242507_0:000d41|NODE_4_length_139564_cov_44.158667:108743-113480|-  -            363 1715808              -            185   1.5e-12   37.3   0.2   1   1   3.2e-11   3.4e-11   32.9   0.2    16   177   106   295    95   303 0.67 <unknown description>
+1715808at2759_1442371_0:002e76|NODE_4_length_139564_cov_44.158667:108749-112160|- -            365 1715808              -            185   1.5e-12   37.2   0.2   1   1   3.3e-11   3.5e-11   32.8   0.2    16   177   109   298    98   306 0.67 <unknown description>
+1715808at2759_578455_0:000fa8|NODE_4_length_139564_cov_44.158667:108749-109517|-  -            257 1715808              -            185   2.4e-12   36.6   0.1   1   1   5.2e-11   5.6e-11   32.2   0.1    37   177    28   190     3   198 0.65 <unknown description>
+1715808at2759_72664_0:005da1|NODE_12_length_106079_cov_39.536715:94045-98158|+    -            336 1715808              -            185     1e-11   34.6   0.0   1   2   0.00011   0.00011   11.6   0.0    24    89   100   166    92   190 0.88 <unknown description>
+1715808at2759_72664_0:005da1|NODE_12_length_106079_cov_39.536715:94045-98158|+    -            336 1715808              -            185     1e-11   34.6   0.0   2   2     2e-07   2.2e-07   20.5   0.1   116   185   209   277   202   277 0.88 <unknown description>
+1715808at2759_13451_0:002033|NODE_12_length_106079_cov_39.536715:97471-98158|+    -            230 1715808              -            185   5.8e-11   32.1   0.0   1   2     0.001    0.0011    8.4   0.0    37    89     7    60     1    84 0.83 <unknown description>
+1715808at2759_13451_0:002033|NODE_12_length_106079_cov_39.536715:97471-98158|+    -            230 1715808              -            185   5.8e-11   32.1   0.0   2   2     1e-07   1.1e-07   21.4   0.1   116   185   103   171    96   171 0.88 <unknown description>
+1715808at2759_58331_1:001471|NODE_83_length_13119_cov_40.215209:3280-3754|-       -            159 1715808              -            185     1e-10   31.3   0.0   1   1   1.4e-10   1.5e-10   30.8   0.0   119   180    32    95    20    99 0.84 <unknown description>
+1715808at2759_3659_0:002395|NODE_83_length_13119_cov_40.215209:3280-10508|-       -            338 1715808              -            185   3.5e-10   29.6   0.0   1   1   5.8e-10   6.3e-10   28.7   0.0   119   180   211   274   199   278 0.84 <unknown description>
+1715808at2759_180675_0:003657|NODE_83_length_13119_cov_40.215209:3280-3643|-      -            122 1715808              -            185     5e-10   29.1   0.1   1   1   6.7e-10   7.2e-10   28.5   0.1   125   180     1    58     1    62 0.86 <unknown description>
+1715808at2759_423536_0:0003a3|NODE_12_length_106079_cov_39.536715:97795-98158|+   -            122 1715808              -            185   2.4e-07   20.3   0.3   1   2   2.3e-07   2.4e-07   20.3   0.3   123   185     2    63     1    63 0.88 <unknown description>
+1715808at2759_423536_0:0003a3|NODE_12_length_106079_cov_39.536715:97795-98158|+   -            122 1715808              -            185   2.4e-07   20.3   0.3   2   2       1.7       1.8   -2.1   0.3   158   174    69    85    67   100 0.70 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/eukaryota_odb12/hmms/1715808at2759.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1715808at2759.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_eukaryota_odb12/hmmer_output/1715808at2759.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/eukaryota_odb12/hmms/1715808at2759.hmm home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1715808at2759.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:28:32 2025
+# [ok]

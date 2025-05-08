@@ -1,0 +1,53 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/99at543.hmm
+# target sequence database:        home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# per-dom hits tabular output:     home/simonedassisi/Desktop/BUSCO_output/run_enterobacteriaceae_odb12/hmmer_output/99at543.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       99  [M=89]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                                            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                                            -----------
+    1.1e-54  180.8   1.2    1.2e-54  180.7   1.2    1.0  1  NODE_11_length_117034_cov_40.464403:110455-110730|+  NODE_11_length_117034_cov_40.464
+
+
+Domain annotation for each sequence (and alignments):
+>> NODE_11_length_117034_cov_40.464403:110455-110730|+  NODE_11_length_117034_cov_40.464403_102 # 110455 # 110730 # 1 # 
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  180.7   1.2   2.5e-58   1.2e-54       1      89 []       1      89 [.       1      89 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 180.7 bits;  conditional E-value: 2.5e-58
+                                                   99  1 msrtifCtfLkreaegqdfqlypgelGkriyneiskeawaqWqkkqtmlinekklnmlna 60
+                                                         msrtifCtfL+reaegqdfqlypgelGkriyneiskeawaqWq+kqtmlinekklnm+na
+  NODE_11_length_117034_cov_40.464403:110455-110730|+  1 MSRTIFCTFLQREAEGQDFQLYPGELGKRIYNEISKEAWAQWQHKQTMLINEKKLNMMNA 60
+                                                         9*********************************************************** PP
+
+                                                   99 61 edrkllekemvkflfekkdvhiegytpee 89
+                                                         e+rklle+emv+flfe+k+vhiegytpe+
+  NODE_11_length_117034_cov_40.464403:110455-110730|+ 61 EHRKLLEQEMVNFLFEGKEVHIEGYTPED 89
+                                                         **************************985 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (89 nodes)
+Target sequences:                       5041  (1503664 residues searched)
+Passed MSV filter:                       115  (0.0228129); expected 100.8 (0.02)
+Passed bias filter:                       98  (0.0194406); expected 100.8 (0.02)
+Passed Vit filter:                        13  (0.00257885); expected 5.0 (0.001)
+Passed Fwd filter:                         1  (0.000198373); expected 0.1 (1e-05)
+Initial search space (Z):               5041  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 18260.77
+//
+[ok]

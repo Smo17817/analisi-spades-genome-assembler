@@ -1,0 +1,18 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_29_length_69919_cov_43.020805:26252-27304|+ -            351 5808                 -            347  3.2e-221  731.8   0.1   1   1  2.1e-224  3.6e-221  731.6   0.1     1   347     1   350     1   350 0.99 NODE_29_length_69919_cov_43.020805_27 # 26252 # 27304 # 1 # ID=29_27;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.540
+NODE_17_length_86457_cov_41.702653:76379-77011|+ -            211 5808                 -            347    0.0099   13.3   0.2   1   2   0.00015      0.25    8.7   0.0   208   233    30    55    20    86 0.74 NODE_17_length_86457_cov_41.702653_78 # 76379 # 77011 # 1 # ID=17_78;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.517
+NODE_17_length_86457_cov_41.702653:76379-77011|+ -            211 5808                 -            347    0.0099   13.3   0.2   2   2     0.009        15    2.8   0.1   149   204   137   195   111   201 0.74 NODE_17_length_86457_cov_41.702653_78 # 76379 # 77011 # 1 # ID=17_78;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.517
+NODE_26_length_78359_cov_41.157595:24715-26079|- -            455 5808                 -            347     0.044   11.2   0.0   1   2   6.3e-05      0.11    9.9   0.0   208   235   220   247   202   303 0.84 NODE_26_length_78359_cov_41.157595_24 # 24715 # 26079 # -1 # ID=26_24;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.564
+NODE_26_length_78359_cov_41.157595:24715-26079|- -            455 5808                 -            347     0.044   11.2   0.0   2   2      0.62     1e+03   -3.2   0.0   180   204   350   374   335   379 0.78 NODE_26_length_78359_cov_41.157595_24 # 24715 # 26079 # -1 # ID=26_24;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.564
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/5808at543.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/run_enterobacteriaceae_odb12/hmmer_output/5808at543.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/5808at543.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:30:25 2025
+# [ok]

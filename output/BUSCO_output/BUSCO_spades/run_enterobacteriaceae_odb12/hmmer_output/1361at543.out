@@ -1,0 +1,16 @@
+#                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_18_length_85840_cov_40.696849:32875-33810|+ -            312 1361                 -            309  1.1e-193  640.5   0.1   1   1  7.4e-197  1.2e-193  640.3   0.1     1   308     2   309     2   310 1.00 NODE_18_length_85840_cov_40.696849_29 # 32875 # 33810 # 1 # ID=18_29;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.537
+NODE_18_length_85840_cov_40.696849:27212-28216|+ -            335 1361                 -            309   7.7e-24   82.6   0.0   1   1   1.2e-25     2e-22   78.0   0.0     3   271     3   279     1   334 0.78 NODE_18_length_85840_cov_40.696849_22 # 27212 # 28216 # 1 # ID=18_22;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.515
+NODE_11_length_117034_cov_40.464403:8536-9723|+  -            396 1361                 -            309   6.3e-15   53.4   0.0   1   1   1.5e-17   2.6e-14   51.4   0.0    14   226    28   267    15   321 0.74 NODE_11_length_117034_cov_40.464403_7 # 8536 # 9723 # 1 # ID=11_7;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.502
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/1361at543.hmm
+# Target file:     home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout home/simonedassisi/Desktop/BUSCO_output/run_enterobacteriaceae_odb12/hmmer_output/1361at543.out --cpu 1 /home/simonedassisi/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/1361at543.hmm home/simonedassisi/Desktop/BUSCO_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi
+# Date:            Tue Apr  1 14:30:11 2025
+# [ok]

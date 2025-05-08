@@ -1,0 +1,8 @@
+[M::mp_ntseq_read@0.010*1.10] read 5169832 bases in 232 contigs
+[M::mp_idx_build@0.010*1.10] 40600 blocks
+[M::mp_idx_build@0.147*1.00] collected syncmers
+[M::mp_idx_build@0.271*1.00] 3112451 kmer-block pairs
+[M::mp_idx_print_stat] 1099845 distinct k-mers; mean occ of infrequent k-mers: 2.83; 0 frequent k-mers accounting for 0 occurrences
+[M::main] Version: 0.13-r248
+[M::main] CMD: miniprot -t 1 -d home/simonedassisi/Desktop/BUSCO_output/auto_lineage/run_eukaryota_odb12/miniprot_output/ref.mpi /home/simonedassisi/Desktop/spades_output/contigs.fasta
+[M::main] Real time: 0.407 sec; CPU: 0.348 sec; Peak RSS: 0.104 GB
