@@ -1,0 +1,15 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_2617_length_3975_cov_65.355469:2655-3995|- -            447 2210                 -            585  3.4e-188  625.0   5.7   1   1    5e-191  1.3e-187  623.0   5.7   192   584     1   434     1   435 0.88 NODE_2617_length_3975_cov_65.355469_5 # 2655 # 3995 # -1 # ID=1400_5;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.546
+NODE_2616_length_7178_cov_72.575790:3-491|-     -            163 2210                 -            585   4.6e-54  182.0   0.2   1   1   2.1e-57   5.5e-54  181.8   0.2     1   130    14   156    14   162 0.87 NODE_2616_length_7178_cov_72.575790_1 # 3 # 491 # -1 # ID=1399_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/2210at543.hmm
+# Target file:     results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/run_enterobacteriaceae_odb12/hmmer_output/2210at543.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/2210at543.hmm results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:23:58 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_1999_length_25587_cov_66.390984:24235-24939|+ -            235 5908                 -            231  4.1e-126  417.5  22.7   1   1  1.7e-129  4.5e-126  417.4  22.7     1   231     1   234     1   234 0.98 NODE_1999_length_25587_cov_66.390984_25 # 24235 # 24939 # 1 # ID=982_25;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.482
+NODE_2111_length_12361_cov_66.461288:1502-2161|+   -            220 5908                 -            231   3.2e-05   21.9  10.9   1   2     0.027        70    1.2   4.6   113   160    53   100    11   108 0.71 NODE_2111_length_12361_cov_66.461288_2 # 1502 # 2161 # 1 # ID=1057_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.509
+NODE_2111_length_12361_cov_66.461288:1502-2161|+   -            220 5908                 -            231   3.2e-05   21.9  10.9   2   2   1.2e-08   3.2e-05   21.9  10.9   110   228   107   214   102   217 0.83 NODE_2111_length_12361_cov_66.461288_2 # 1502 # 2161 # 1 # ID=1057_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.509
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/5908at543.hmm
+# Target file:     results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/run_enterobacteriaceae_odb12/hmmer_output/5908at543.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/enterobacteriaceae_odb12/hmms/5908at543.hmm results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:24:08 2025
+# [ok]

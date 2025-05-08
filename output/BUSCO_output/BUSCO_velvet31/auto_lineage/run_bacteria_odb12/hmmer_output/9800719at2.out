@@ -1,0 +1,15 @@
+#                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_181_length_15413_cov_63.977356:955-1938|+  -            328 9800719              -            339  3.4e-153  508.1   0.0   1   1  1.4e-156  3.8e-153  507.9   0.0     4   338     3   327     1   327 0.98 NODE_181_length_15413_cov_63.977356_3 # 955 # 1938 # 1 # ID=41_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.541
+NODE_432_length_2202_cov_495.106262:1098-2222|+ -            375 9800719              -            339     0.023   12.2   2.0   1   1   1.3e-05     0.034   11.6   2.0    19   110    21   114     6   124 0.66 NODE_432_length_2202_cov_495.106262_3 # 1098 # 2222 # 1 # ID=158_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/bacteria_odb12/hmms/9800719at2.hmm
+# Target file:     results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/auto_lineage/run_bacteria_odb12/hmmer_output/9800719at2.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/bacteria_odb12/hmms/9800719at2.hmm results/BUSCO_output_velveth21/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:18:22 2025
+# [ok]

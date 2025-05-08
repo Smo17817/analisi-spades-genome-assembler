@@ -1,0 +1,24 @@
+#                                                                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                                    accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                                            ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+2195431at2759_905079_0:00016e|NODE_1709_length_68036_cov_72.575531:9440-9635|-   -             66 2195431              -            684   4.7e-14   40.8   0.0   1   1   4.9e-14   4.9e-14   40.7   0.0   160   227     3    65     1    66 0.90 <unknown description>
+2195431at2759_270530_0:00530a|NODE_718_length_90501_cov_69.003258:50769-51108|+  -            114 2195431              -            684   7.5e-11   30.2   0.0   1   1     9e-11     9e-11   30.0   0.0   160   184    56    80    42    84 0.92 <unknown description>
+2195431at2759_1912936_0:003099|NODE_718_length_90501_cov_69.003258:50766-51003|+ -             80 2195431              -            684   1.4e-10   29.3   0.0   1   1   1.4e-10   1.4e-10   29.3   0.0   160   182    57    79    36    80 0.93 <unknown description>
+2195431at2759_8081_0:0000fd|NODE_718_length_90501_cov_69.003258:50937-51108|+    -             58 2195431              -            684   1.6e-10   29.1   0.1   1   1   1.8e-10   1.8e-10   28.9   0.1   161   184     1    24     1    28 0.93 <unknown description>
+2195431at2759_8208_0:004096|NODE_718_length_90501_cov_69.003258:50937-51153|+    -             73 2195431              -            684   2.4e-10   28.5   0.1   1   1     3e-10     3e-10   28.2   0.1   161   184     1    24     1    28 0.93 <unknown description>
+2195431at2759_161448_0:002202|NODE_718_length_90501_cov_69.003258:50937-55795|+  -             98 2195431              -            684   2.6e-10   28.4   0.1   1   1   2.6e-10   2.6e-10   28.4   0.1   161   184     1    24     1    84 0.93 <unknown description>
+2195431at2759_981085_0:00454b|NODE_718_length_90501_cov_69.003258:50934-51549|+  -            206 2195431              -            684   3.7e-10   27.9   0.1   1   1   4.7e-10   4.7e-10   27.6   0.1   160   184     1    25     1    29 0.93 <unknown description>
+2195431at2759_84645_0:000389|NODE_718_length_90501_cov_69.003258:50937-51210|+   -             92 2195431              -            684   3.7e-10   27.9   0.1   1   1   4.6e-10   4.6e-10   27.6   0.1   161   184     1    24     1    28 0.93 <unknown description>
+2195431at2759_3218_0:001b87|NODE_718_length_90501_cov_69.003258:46524-51003|+    -            234 2195431              -            684   7.8e-10   26.9   0.1   1   1   9.9e-10   9.9e-10   26.5   0.1   160   182   211   233   199   234 0.93 <unknown description>
+2195431at2759_185431_0:000c65|NODE_274_length_24805_cov_72.090103:16679-17234|-  -            186 2195431              -            684   3.2e-06   14.9   0.0   1   2      0.48      0.48   -2.2   3.2    37    77    31    71     8    94 0.47 <unknown description>
+2195431at2759_185431_0:000c65|NODE_274_length_24805_cov_72.090103:16679-17234|-  -            186 2195431              -            684   3.2e-06   14.9   0.0   2   2   3.2e-06   3.2e-06   14.9   0.0   153   182   156   185   139   185 0.87 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/eukaryota_odb12/hmms/2195431at2759.hmm
+# Target file:     results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/2195431at2759.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/hmmer_output/2195431at2759.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/eukaryota_odb12/hmms/2195431at2759.hmm results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/2195431at2759.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:22:26 2025
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                                           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+8110916at2759_51655_0:001aa7|NODE_1570_length_36954_cov_78.025352:19748-20489|+ -            248 8110916              -            334   2.4e-35  108.3   0.3   1   1   2.8e-35   2.8e-35  108.1   0.3    37   262     4   210     1   247 0.89 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/eukaryota_odb12/hmms/8110916at2759.hmm
+# Target file:     results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/8110916at2759.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/hmmer_output/8110916at2759.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/eukaryota_odb12/hmms/8110916at2759.hmm results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/8110916at2759.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:22:26 2025
+# [ok]

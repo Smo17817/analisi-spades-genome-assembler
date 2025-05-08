@@ -1,0 +1,18 @@
+#                                                                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                                           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1928at2759_55577_0:000c58|NODE_2145_length_112275_cov_77.552353:78684-79725|+   -            348 1928                 -            518   9.9e-30   90.3   0.0   1   3   3.7e-09   3.7e-09   22.4   0.0    55    91     1    37     1    60 0.85 <unknown description>
+1928at2759_55577_0:000c58|NODE_2145_length_112275_cov_77.552353:78684-79725|+   -            348 1928                 -            518   9.9e-30   90.3   0.0   2   3   4.8e-13   4.8e-13   35.3   0.1   182   338    76   215    50   223 0.77 <unknown description>
+1928at2759_55577_0:000c58|NODE_2145_length_112275_cov_77.552353:78684-79725|+   -            348 1928                 -            518   9.9e-30   90.3   0.0   3   3   2.5e-11   2.5e-11   29.6   0.0   388   508   235   348   217   348 0.88 <unknown description>
+1928at2759_1537102_0:0006ce|NODE_2145_length_112275_cov_77.552353:78579-78789|+ -             71 1928                 -            518   2.6e-11   29.6   0.0   1   2     0.016     0.016    0.6   0.0   126   156     2    32     1    35 0.86 <unknown description>
+1928at2759_1537102_0:0006ce|NODE_2145_length_112275_cov_77.552353:78579-78789|+ -             71 1928                 -            518   2.6e-11   29.6   0.0   2   2   5.7e-11   5.7e-11   28.4   0.0    51    88    32    69    21    71 0.85 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/eukaryota_odb12/hmms/1928at2759.hmm
+# Target file:     results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1928at2759.faa
+# Option settings: hmmsearch --domtblout results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/hmmer_output/1928at2759.out --cpu 1 /home/simonedassisi/velvet-1.2.10/busco_downloads/lineages/eukaryota_odb12/hmms/1928at2759.hmm results/BUSCO_output_velveth21/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1928at2759.faa 
+# Current dir:     /home/simonedassisi/velvet-1.2.10
+# Date:            Wed Apr  2 19:22:26 2025
+# [ok]
